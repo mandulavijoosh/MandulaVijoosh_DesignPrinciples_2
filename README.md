@@ -1,2 +1,2 @@
 # Simple Calculator
-A basic Maven project
+A basic Maven project 
